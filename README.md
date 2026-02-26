@@ -6,10 +6,11 @@ Repo con todos **_mis_ laboratorios completos**: [**Labs-Completos-Famaf-Compu**
 Repo con **enunciados** de más exámenes: [**ExamenesViejos-FaMAF-Computacion**](https://github.com/ExamenesViejos-FaMAF-Computacion)
 <strong>
 
-## Materias en Curso (0)
-
+## Materias en Curso (2)
+  * [Lenguajes y Compiladores](/5A1C%20LENGUAJES-Y-COMPILADORES)
+  * [Ingeniería del Software II](/5A1C%20ING-SOFT-II)
 ## Materias Aprobadas (23+2*)
-  * Primer Año
+  * Primer Año (2022)
     * 1C
       * [Matemática Discreta I](/1A1C%20DISCRETA-I)
       * [Introducción a los Algoritmos](/1A1C%20INTRO-ALGORITMOS)
@@ -18,7 +19,7 @@ Repo con **enunciados** de más exámenes: [**ExamenesViejos-FaMAF-Computacion**
       * [Algoritmos y Estructuras de Datos I](/1A2C%20AYED-I)
       * [Álgebra](/1A2C%20ALGEBRA)
       * [Análisis Matemático II](/1A2C%20AN-MAT-II)
-  * Segundo Año
+  * Segundo Año (2023)
     * 1C
       * [Algoritmos y Estructuras de Datos II](/2A1C%20AYED-II)
       * [Organización del Computador](/2A1C%20ORG-DEL-COMPUTADOR)
@@ -27,7 +28,7 @@ Repo con **enunciados** de más exámenes: [**ExamenesViejos-FaMAF-Computacion**
       * [Introducción a la Logica y la Computación](/2A2C%20INTRO-LOGICA)
       * [Sistemas Operativos](/2A2C%20SISTEMAS-OPERATIVOS)
       * [Probabilidad y Estadística](/2A2C%20PROB-Y-ESTADISTICA)
-  * Tercer Año
+  * Tercer Año (2024)
     * 1C
       * [Paradigmas de Programación](/3A1C%20PARADIGMAS)
       * [Redes y Sistemas Distribuidos](/3A1C%20REDES-Y-SISTEMAS)
@@ -36,24 +37,23 @@ Repo con **enunciados** de más exámenes: [**ExamenesViejos-FaMAF-Computacion**
       * [Arquitectura de Computadoras](/3A2C%20ARQUI-DE-COMPUTADORAS)
       * [Bases de Datos](/3A2C%20BASES-DE-DATOS)
       * [Ingeniería del Software I](/3A2C%20ING-SOFT-I)
-  * Cuarto Año
+
+2025: Analista en Computación y suplente de segundo escolta. Promedio 9.61
+
+  * Cuarto Año (2025)
     * 1C
       * [Lenguajes Formales y Computabilidad](/4A1C%20LENG-FORM-Y-COMPUTABILIDAD)
       * [Modelos y Simulación](/4A1C%20MODELOS-Y-SIMULACION)
+      * [(Optativa) Computación Paralela](/4A1C%20COMPUTACION-PARALELA%20(optativa))
     * 2C
       * [Física](/4A2C%20FISICA)
       * [Lógica](/4A2C%20LOGICA)
-  * Optativas
-    * [Computación Paralela](/4A1C%20COMPUTACION-PARALELA%20(optativa))
   * *Otras
     * [Curso de Nivelación](/0A0C%20CURSO-DE-NIVELACION)
-    * Módulo de Idioma Inglés [*(Equivalencia)*](https://drive.google.com/file/d/1py9eOk8cX9n2AoSI1dNmnSV2TtG5gPRN/view?usp=sharing)
+    * [Módulo de Idioma Inglés *(Equivalencia)*](https://drive.google.com/file/d/1py9eOk8cX9n2AoSI1dNmnSV2TtG5gPRN/view?usp=sharing)
 
-## Materias Restantes (4)
+## Materias Restantes (2)
   * Quinto Año
-    * 1C
-      * Lenguajes y Compiladores
-      * Ingeniería del Software II
     * 2C
       * Optativas (1)
       * Trabajo Especial
